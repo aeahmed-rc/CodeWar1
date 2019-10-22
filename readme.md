@@ -1,2 +1,2 @@
-Project:
-A code wars to maintain JS skills.
+# Project:
+## A code wars to maintain JS skills.
